@@ -90,21 +90,6 @@ End-to-end breakdown of SDLC phases, roles, and quality gates for modern teams.
 
 ---
 
-## 🌍 Selected Initiatives
-
-### 🐝 Workerbee Platform
-AI-powered career, talent, and QA ecosystems  
-**CareerBee · TalentBee · QA Bee**
-
-### 📱 Phaneroo Applications
-Mobile apps, Alexa skills, and streaming platforms for devotionals and sermons
-
-### 🌱 Otic Group — Co-Founder
-Building AI education, BPO, and digital transformation initiatives across Africa  
-🎯 **Vision:** *1M AI-centric jobs & 3M AI talents in Uganda by 2030*
-
----
-
 ## ✨ What I Care About
 
 - ✅ Delivery with quality, not at the expense of it
