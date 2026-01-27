@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# 👋 Hi, I’m **Jackie Namanda Kaweesi**
+# 👋 Hi, I’m **Jackie Kaweesi**
 
 🚀 **QA Engineer · Frontend Developer · Agentic AI Builder · Tech for Social Good Advocate**
 
@@ -48,22 +49,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Core Competencies
 
-### 💻 Languages & Frameworks
-`JavaScript` · `TypeScript` · `HTML` · `CSS`  
-`React` · `Next.js` · `Ionic` · `Capacitor`
+### 📊 Program Management
+Agile / Scrum · SDLC · Kanban · Stakeholder Communication · Risk Management · System Thinking  
+`Jira` · `Confluence`
 
-### 🧪 QA & Automation
-`WebdriverIO` · `Appium` · `BrowserStack`  
-Functional · Regression · Sanity · Risk-Based Testing
+### 💻 Software Development & Engineering
+`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git`
 
-### 🤖 AI & Tooling
-`Google ADK` · Prompt Evaluation Sets · Agent Orchestration
+### 🧪 Quality Assurance & Testing
+Black Box Testing · Automation · Regression Testing
 
-### ☁️ Cloud & Tools
-`AWS` · `GitHub Actions` · `CI/CD`  
-`Git` · `Jira` · `Confluence`
+### ☁️ Cloud & DevOps
+`AWS EC2` · `AWS CodePipeline` · `AWS IAM` · `Amazon CloudWatch`
+
+### 🎨 UI/UX & Prototyping
+UI/UX Design · Prototyping  
+`Figma` · `WordPress`
+
+### 📝 Technical Writing & Documentation
+System Design · Process Documentation · Technical Writing
 
 ---
 
@@ -89,3 +95,4 @@ Functional · Regression · Sanity · Risk-Based Testing
 ⭐ If you like what you see, feel free to explore my repositories or reach out!
 
 </div>
+
