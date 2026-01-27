@@ -1,15 +1,18 @@
 
+
+
 <div align="center">
 
-# 👋 Hi, I’m **Jackie Kaweesi**
+# 👋 Hi, I’m **Jackie Namanda Kaweesi**
 
-🚀 **QA Engineer · Frontend Developer · Agentic AI Builder · Tech for Social Good Advocate**
+🧭 **Technical Program Manager · QA Lead · Agentic AI Engineer**  
+🚀 *Building reliable systems, leading delivery, and scaling quality with purpose*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quality%20Assurance-Expert-2E86C1?style=for-the-badge&cacheSeconds=1" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Builder-6A1B9A?style=for-the-badge&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Technical%20Program%20Management-Delivery-4CAF50?style=for-the-badge&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Quality%20Engineering-Leadership-2E86C1?style=for-the-badge&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Systems-6A1B9A?style=for-the-badge&cacheSeconds=1" />
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&cacheSeconds=1" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&cacheSeconds=1" />
   <img src="https://img.shields.io/badge/Technical%20Writing-Docs-0A66C2?style=for-the-badge&cacheSeconds=1" />
 </p>
 
@@ -19,47 +22,47 @@
 
 <p align="center">
   <em>
-    Quality-driven technologist with over half a decade of experience across
-    <strong>Quality Assurance, UX/UI, frontend development, and cloud engineering</strong>.
-    I thrive in fast-paced environments, love building reliable systems, and care deeply about
-    <strong>ethical, inclusive, impact-driven technology</strong>.
+    I’m a TPM-leaning QA Leader and AI Engineer with 5+ years of experience delivering
+    complex systems across engineering, product, and quality.
+    I specialize in <strong>program execution, quality governance, and agentic AI systems</strong>,
+    with a strong bias toward clarity, documentation, and measurable outcomes.
   </em>
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🧠 How I Work
 
-> *I build systems that work — and make sure they stay working.*
+> *I turn ambiguity into execution, and execution into reliable systems.*
 
-- 🐝 **QA & Automation**  
-  Designing robust test strategies, automation frameworks, and release governance
+- 🧭 **Technical Program Management**  
+  Driving cross-functional delivery using Agile, Scrum, Kanban, and SDLC best practices
+
+- 🧪 **Quality Engineering Leadership**  
+  Establishing QA strategy, automation governance, release readiness, and risk-based testing
 
 - 🤖 **Agentic AI Systems**  
-  Designing and testing multi-agent workflows using Google Agentic Development Kit (ADK)
+  Designing, testing, and evaluating multi-agent workflows using Google ADK
 
-- 🌐 **Frontend Development**  
-  HTML, CSS, JavaScript, React, Ionic, Capacitor
+- ☁️ **Cloud & Platform Thinking**  
+  Building and operating systems with reliability, observability, and scale in mind
 
-- ☁️ **Cloud & DevOps**  
-  AWS, CI/CD pipelines, environment orchestration
-
-- 🧩 **Product Thinking**  
-  Translating requirements into scalable, testable, production-ready solutions
+- 🧩 **Systems Thinking**  
+  Connecting product intent, engineering execution, and user impact end-to-end
 
 ---
 
 ## 🧩 Core Competencies
 
-### 📊 Program Management
+### 📊 Program & Delivery Management
 Agile / Scrum · SDLC · Kanban · Stakeholder Communication · Risk Management · System Thinking  
 `Jira` · `Confluence`
 
 ### 💻 Software Development & Engineering
-`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git` · `Nextjs`
+`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git`
 
 ### 🧪 Quality Assurance & Testing
-Black Box Testing · Automation · Regression Testing
+Black Box Testing · Automation · Regression Testing · Release Readiness · Risk-Based Testing
 
 ### ☁️ Cloud & DevOps
 `AWS EC2` · `AWS CodePipeline` · `AWS IAM` · `Amazon CloudWatch`
@@ -73,26 +76,57 @@ System Design · Process Documentation · Technical Writing
 
 ---
 
+## 📚 Authored Documentation & Knowledge Bases
+
+> *I believe documentation is a delivery artifact, not an afterthought.*
+
+### 📘 QA Essentials
+A practical, opinionated guide covering QA foundations, testing strategies, and quality mindset.  
+🔗 https://jkaweesi22.github.io/QAEssentials/#/
+
+### 🔁 Software Development Life Cycle (SDLC)
+End-to-end breakdown of SDLC phases, roles, and quality gates for modern teams.  
+🔗 https://jkaweesi22.github.io/SDLC/
+
+---
+
+## 🌍 Selected Initiatives
+
+### 🐝 Workerbee Platform
+AI-powered career, talent, and QA ecosystems  
+**CareerBee · TalentBee · QA Bee**
+
+### 📱 Phaneroo Applications
+Mobile apps, Alexa skills, and streaming platforms for devotionals and sermons
+
+### 🌱 Otic Group — Co-Founder
+Building AI education, BPO, and digital transformation initiatives across Africa  
+🎯 **Vision:** *1M AI-centric jobs & 3M AI talents in Uganda by 2030*
+
+---
+
 ## ✨ What I Care About
 
-- ✅ **Quality by design**
-- 🌱 **Ethical & responsible AI**
-- 🤝 **Collaboration & mentorship**
-- 🌍 **Using technology to make communities safer and more connected**
+- ✅ Delivery with quality, not at the expense of it
+- 📐 Clear systems, clear documentation, clear ownership
+- 🤝 Servant leadership & mentorship
+- 🌍 Ethical, inclusive, impact-driven technology
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 **LinkedIn:** _https://www.linkedin.com/in/jackie-namanda-75912a81/_  
+- 💼 **LinkedIn:** _https://www.linkedin.com/in/jackie-namanda-75912a81/_   
+- 🌐 **Portfolio / Docs:** https://jkaweesi22.github.io  
+- 📧 **Email:** _optional_
 
 ---
 
 <div align="center">
 
-> *“Build systems that work, test them with excellence, and deploy them with purpose.”*
+> *“Strong systems are built twice: once in design, and once in execution.”*
 
-⭐ If you like what you see, feel free to explore my repositories or reach out!
+⭐ Feel free to explore my repositories, docs, or reach out to collaborate.
 
 </div>
 
