@@ -102,8 +102,8 @@ End-to-end breakdown of SDLC phases, roles, and quality gates for modern teams.
 ## 📫 Let’s Connect
 
 - 💼 **LinkedIn:** _https://www.linkedin.com/in/jackie-namanda-75912a81/_   
-- 🌐 **Portfolio / Docs:** https://jkaweesi22.github.io  
-- 📧 **Email:** _optional_
+- 🌐 **Portfolio 
+- 📧 **Email:** 
 
 ---
 
