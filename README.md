@@ -56,7 +56,7 @@ Agile / Scrum · SDLC · Kanban · Stakeholder Communication · Risk Management 
 `Jira` · `Confluence`
 
 ### 💻 Software Development & Engineering
-`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git`
+`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git` · `Nextjs`
 
 ### 🧪 Quality Assurance & Testing
 Black Box Testing · Automation · Regression Testing
