@@ -54,25 +54,29 @@
 
 ## 🧩 Core Competencies
 
-### 📊 Program & Delivery Management
-Agile / Scrum · SDLC · Kanban · Stakeholder Communication · Risk Management · System Thinking  
-`Jira` · `Confluence`
+### 📊 Release & Program Management
+Agile (Scrum/Kanban) · Release Planning & Scheduling · Release Governance · Change Management · Risk Mitigation · Release Readiness Reviews · Release Calendar Management · Release Notes & Communication  
 
-### 💻 Software Development & Engineering
-`HTML` · `CSS` · `JavaScript` · `React` · `FreeMarker` · `Ruby on Rails` · `Git`
+### 🧪 Quality Engineering & Testing
+Test Automation (Playwright, WebdriverIO, Appium) · API Testing · End-to-End Testing · Regression Testing · Manual Testing · Customer UAT · QA Strategy · Release Gating · Post-Release Validation · Reporting & Observability · Dashboarding & Test Analytics · BrowserStack · ContextQA  
 
-### 🧪 Quality Assurance & Testing
-Black Box Testing · Automation · Regression Testing · Release Readiness · Risk-Based Testing
+### ⚙️ CI/CD & Delivery Systems
+GitHub Actions · CI/CD Pipeline Design · Deployment Automation · Workflow Orchestration · Reusable Workflows · Branching Strategies (GitFlow, Trunk-Based Development) · Semantic Versioning · Monitoring & Alerting · Dashboarding & Release Metrics Visualization · Release Orchestration  
 
-### ☁️ Cloud & DevOps
-`AWS EC2` · `AWS CodePipeline` · `AWS IAM` · `Amazon CloudWatch`
+### ☁️ Cloud & Infrastructure
+AWS (EC2, CodePipeline, CodeBuild, IAM, CloudWatch, SNS, SQS) · Infrastructure-Aware Testing  
 
-### 🎨 UI/UX & Prototyping
-UI/UX Design · Prototyping  
-`Figma` · `WordPress`
+### 💻 Software Development
+JavaScript · TypeScript · Ruby on Rails · React · Next.js · Tailwind CSS  
+
+### 🤖 AI & Automation
+Cursor · v0 · ChatGPT · Custom GPTs · AI-Assisted Testing Workflows · Prompt Engineering · LLM Evaluation · AI Reliability Testing · Agentic AI Systems  
+
+### 🤝 Collaboration & Leadership
+Cross-Functional Alignment (Product, Engineering, QA) · Stakeholder Engagement · Cross-Team Coordination · Training & Enablement · Executive Reporting · Process Improvement  
 
 ### 📝 Technical Writing & Documentation
-System Design · Process Documentation · Technical Writing
+System Design Documentation · BRDs & Process Flows · Requirements Documentation · Technical Writing · Delivery Process Standardization  
 
 ---
 
