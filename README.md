@@ -65,6 +65,7 @@ A practical breakdown of software delivery phases, ownership, and quality gates.
 
 💼 LinkedIn: https://www.linkedin.com/in/jackie-namanda-75912a81/
 🌐 Portfolio: https://jkaweesi22.github.io/Kaweesi-Resume/
+📓 Field Log (private): https://claude.ai/artifact/XYxmMmaHBQQLJMMEjypzEX
 
 ---
 
