@@ -59,6 +59,8 @@ I specialize in turning ambiguity into structured execution through:
 
 <img src="https://streak-stats.demolab.com?user=jkaweesi22&theme=default&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=666666" alt="Jackie's GitHub streak" />
 
+<img src="assets/stats.svg" alt="GitHub snapshot: repos, stars, followers and top languages" width="100%" />
+
 </div>
 
 ---
