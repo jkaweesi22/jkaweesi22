@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I’m **Jackie Namanda Kaweesi**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jackie%20Namanda%20Kaweesi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Jackie Namanda Kaweesi" />
 
-### Technical Program Manager · QA Leader · Agentic AI Engineer
+<a href="https://github.com/jkaweesi22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Agentic+AI+Engineer;Turning+ambiguity+into+clear+execution" alt="Typing intro" />
+</a>
 
 🚀 Building reliable systems, scaling quality, and turning complex delivery into clear execution.
 
@@ -29,9 +31,19 @@ I specialize in turning ambiguity into structured execution through:
 * ☁️ AWS & infrastructure-aware testing
 * 📝 Technical documentation & process design
 
+### 🚦 How I ship
+
+<div align="center">
+  <img src="assets/how-i-ship.svg" alt="How I ship: Plan, Build, Test, Review, Release, with a feedback loop" width="100%" />
+</div>
+
 ---
 
 ## 🛠️ Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,githubactions,aws,git,github,figma&perline=10" alt="Engineering & cloud tools" />
+</p>
 
 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management · Risk Management
 **Testing:** Playwright · WebdriverIO · Appium · BrowserStack · ContextQA · API Testing
@@ -41,7 +53,34 @@ I specialize in turning ambiguity into structured execution through:
 
 ---
 
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jkaweesi22&theme=default&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=666666" alt="Jackie's GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkaweesi22&hide_border=true&color=FB8C00&line=FB8C00&point=333333&area=true&area_color=FB8C00" alt="Contribution activity graph" />
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=jkaweesi22&theme=gruvbox&title=Commits,PullRequest,Issues,Reviews,Repositories,Stars&column=6&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies" />
+
+</div>
+
+---
+
 ## 📚 Featured Work
+
+<div align="center">
+
+<a href="https://jkaweesi22.github.io/QAEssentials/#/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkaweesi22&repo=QAEssentials&hide_border=true&title_color=FB8C00&icon_color=FB8C00" alt="QA Essentials" />
+</a>
+<a href="https://jkaweesi22.github.io/SDLC/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkaweesi22&repo=SDLC&hide_border=true&title_color=FB8C00&icon_color=FB8C00" alt="SDLC Guide" />
+</a>
+
+</div>
 
 ### 📘 QA Essentials
 
@@ -72,5 +111,7 @@ A practical breakdown of software delivery phases, ownership, and quality gates.
 <div align="center">
 
 ### *“Strong systems are built twice: once in design, and once in execution.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
 
 </div>
