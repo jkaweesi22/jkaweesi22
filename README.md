@@ -59,12 +59,6 @@ I specialize in turning ambiguity into structured execution through:
 
 <img src="https://streak-stats.demolab.com?user=jkaweesi22&theme=default&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=666666" alt="Jackie's GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkaweesi22&hide_border=true&color=FB8C00&line=FB8C00&point=333333&area=true&area_color=FB8C00" alt="Contribution activity graph" />
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jkaweesi22&theme=gruvbox&title=Commits,PullRequest,Issues,Reviews,Repositories,Stars&column=6&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies" />
-
 </div>
 
 ---
@@ -73,12 +67,8 @@ I specialize in turning ambiguity into structured execution through:
 
 <div align="center">
 
-<a href="https://jkaweesi22.github.io/QAEssentials/#/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkaweesi22&repo=QAEssentials&hide_border=true&title_color=FB8C00&icon_color=FB8C00" alt="QA Essentials" />
-</a>
-<a href="https://jkaweesi22.github.io/SDLC/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkaweesi22&repo=SDLC&hide_border=true&title_color=FB8C00&icon_color=FB8C00" alt="SDLC Guide" />
-</a>
+<a href="https://jkaweesi22.github.io/QAEssentials/#/"><img src="assets/featured-qa.svg" alt="QA Essentials" width="440" /></a>
+<a href="https://jkaweesi22.github.io/SDLC/"><img src="assets/featured-sdlc.svg" alt="SDLC Guide" width="440" /></a>
 
 </div>
 

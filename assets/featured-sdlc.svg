@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 150" width="440" height="150" role="img" aria-label="SDLC Guide">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FB8C00"/><stop offset="1" stop-color="#C46A00"/></linearGradient>
+<filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000" flood-opacity=".2"/></filter></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.a{animation:n 2s ease-in-out infinite}@keyframes n{50%{transform:translateX(5px)}}</style>
+<g filter="url(#s)"><rect x="8" y="6" width="424" height="134" rx="16" fill="url(#g)"/></g>
+<circle cx="60" cy="56" r="28" fill="#fff" fill-opacity=".2"/>
+<text x="60" y="66" text-anchor="middle" font-size="30">🔁</text>
+<text x="104" y="52" font-size="22" font-weight="700" fill="#fff">SDLC Guide</text>
+<text x="104" y="76" font-size="13" fill="#fff" opacity=".92">A practical breakdown of delivery phases,</text>
+<text x="104" y="95" font-size="13" fill="#fff" opacity=".92">ownership, and quality gates.</text>
+<text class="a" x="104" y="124" font-size="14" font-weight="700" fill="#fff">Open →</text>
+</svg>
