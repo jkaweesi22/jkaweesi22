@@ -67,13 +67,6 @@ I specialize in turning ambiguity into structured execution through:
 
 ## 📚 Featured Work
 
-<div align="center">
-
-<a href="https://jkaweesi22.github.io/QAEssentials/#/"><img src="assets/featured-qa.svg" alt="QA Essentials" width="440" /></a>
-<a href="https://jkaweesi22.github.io/SDLC/"><img src="assets/featured-sdlc.svg" alt="SDLC Guide" width="440" /></a>
-
-</div>
-
 ### 📘 QA Essentials
 
 Practical guidance on software quality, testing strategy, and modern QA practices.
