@@ -31,12 +31,6 @@ I specialize in turning ambiguity into structured execution through:
 * ☁️ AWS & infrastructure-aware testing
 * 📝 Technical documentation & process design
 
-### 🚦 How I ship
-
-<div align="center">
-  <img src="assets/how-i-ship.svg" alt="How I ship: Plan, Build, Test, Review, Release, with a feedback loop" width="100%" />
-</div>
-
 ---
 
 ## 🛠️ Tech & Tools
