@@ -42,28 +42,27 @@ I specialize in turning ambiguity into structured execution through:
 ## 🛠️ Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,githubactions,aws,git,github,figma&perline=10" alt="Engineering & cloud tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,vercel,githubactions,aws,git,github,postman,vscode,notion,figma&perline=8" alt="Engineering & cloud tools" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management · Risk Management
 **Testing:** Playwright · WebdriverIO · Appium · BrowserStack · ContextQA · API Testing
 **Engineering:** JavaScript · TypeScript · React · Next.js · GitHub Actions
 **Cloud:** AWS · CloudWatch · IAM · SNS · SQS
-**AI:** ChatGPT · Cursor · Google ADK · LLM Evaluation · Prompt Engineering
+**AI:** ChatGPT · Claude · Cursor · Google ADK · LLM Evaluation · Prompt Engineering
 
 ---
 
 ## 📚 Featured Work
 
-### 📘 QA Essentials
+### 🚚 GitHub Delivery Operating System
 
-Practical guidance on software quality, testing strategy, and modern QA practices.
-🔗 https://jkaweesi22.github.io/QAEssentials/#/
+An open-source operating system for software delivery on GitHub.
 
-### 🔁 SDLC Guide
-
-A practical breakdown of software delivery phases, ownership, and quality gates.
-🔗 https://jkaweesi22.github.io/SDLC/
+🔗 Repo: https://github.com/Phaneroo/github-delivery-operating-system
+🌐 Site: https://phaneroo.github.io/github-delivery-operating-system/
+📦 npm: https://www.npmjs.com/package/github-delivery-os
 
 ---
 
