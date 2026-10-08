@@ -43,6 +43,9 @@ I specialize in turning ambiguity into structured execution through:
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,vercel,githubactions,aws,git,github,postman,vscode,notion,figma&perline=8" alt="Engineering & cloud tools" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
