@@ -42,10 +42,22 @@ I specialize in turning ambiguity into structured execution through:
 ## 🛠️ Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,vercel,githubactions,aws,git,github,postman,vscode,notion,figma&perline=8" alt="Engineering & cloud tools" />
-</p>
-
-<p>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="js" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="ts" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="supabase" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=notion" height="48" alt="notion" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" />
 </p>
