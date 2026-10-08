@@ -47,6 +47,7 @@ I specialize in turning ambiguity into structured execution through:
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" />
 </p>
 
 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management · Risk Management
