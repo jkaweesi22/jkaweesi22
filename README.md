@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jackie%20Namanda%20Kaweesi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Jackie Namanda Kaweesi" />
-
 <a href="https://github.com/jkaweesi22">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Agentic+AI+Engineer;Turning+ambiguity+into+clear+execution" alt="Typing intro" />
 </a>
