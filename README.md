@@ -93,7 +93,7 @@ An open-source operating system for software delivery on GitHub.
 
 <div align="center">
 
-### *“Strong systems are built twice: once in design, and once in execution.”*
+### *“Design with intent. Build to last.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
 
