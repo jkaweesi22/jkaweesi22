@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jkaweesi22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Forward+Deployed+Engineer;Technical+Program+Manager;QA+Leader;Agentic+AI+Engineer" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Forward+Deployed+Engineer;Technical+Program+Manager;QA+Leader;AI-Enabled+Delivery+Lead" alt="Typing intro" />
 </a>
 
 🚀 Building reliable systems, scaling quality, and turning complex delivery into clear execution.
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-Impact-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20Program%20Management-Delivery-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quality%20Engineering-Leadership-2E86C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Systems-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Enabled%20Delivery-Systems-6A1B9A?style=for-the-badge" />
 </p>
 
 </div>
@@ -23,7 +23,7 @@ I work close to the problem, with the people who have it, at the intersection of
 
 * 🧭 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management
 * 🧪 QA strategy & test automation
-* 🤖 Agentic AI workflows & AI reliability
+* 🤖 AI-enabled delivery & agentic QA
 * 🔍 **Customer discovery** & **rapid prototyping**
 * 🛠️ Solution design, onboarding & enablement
 * 📝 Technical documentation & process design
