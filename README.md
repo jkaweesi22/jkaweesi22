@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jkaweesi22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Forward+Deployed+Engineer;Agentic+AI+Engineer;Turning+ambiguity+into+clear+execution" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Forward+Deployed+Engineer;Agentic+AI+Engineer" alt="Typing intro" />
 </a>
 
 🚀 Building reliable systems, scaling quality, and turning complex delivery into clear execution.
@@ -34,7 +34,6 @@ I specialize in turning ambiguity into structured execution through:
 * ⚙️ CI/CD, GitHub Actions & delivery automation
 * ☁️ AWS & infrastructure-aware testing
 * 📝 Technical documentation & process design
-* 🛰️ Forward deployed engineering: embedding with customers to ship working solutions
 
 ---
 
@@ -76,7 +75,6 @@ I like working close to the problem, with the people who have it.
   <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="vercel" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="githubactions" />
   <img src="https://skillicons.dev/icons?i=aws" height="48" alt="aws" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
@@ -101,7 +99,7 @@ An open-source operating system for software delivery on GitHub.
 
 ## 🌱 What I Value
 
-**Customer-embedded problem solving · Reliable delivery · Clear ownership · Strong documentation · Servant leadership · Purpose-driven technology**
+**Reliable delivery · Clear ownership · Strong documentation · Servant leadership · Purpose-driven technology**
 
 ---
 
