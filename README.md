@@ -42,7 +42,19 @@ I specialize in turning ambiguity into structured execution through:
 
 I like working close to the problem, with the people who have it.
 
-**How I engage:** `discover → prototype → deploy → hand over`
+<p align="center">
+  <img src="https://img.shields.io/badge/HOW%20I%20ENGAGE-1F2937?style=for-the-badge" alt="How I engage" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1%20%C2%B7%20DISCOVER-2E86C1?style=for-the-badge&logo=searchengin&logoColor=white" alt="Discover" />
+  <img src="https://img.shields.io/badge/%E2%86%92-555555?style=for-the-badge" alt="then" />
+  <img src="https://img.shields.io/badge/2%20%C2%B7%20PROTOTYPE-FB8C00?style=for-the-badge&logo=lightning&logoColor=white" alt="Prototype" />
+  <img src="https://img.shields.io/badge/%E2%86%92-555555?style=for-the-badge" alt="then" />
+  <img src="https://img.shields.io/badge/3%20%C2%B7%20DEPLOY-00897B?style=for-the-badge&logo=rocket&logoColor=white" alt="Deploy" />
+  <img src="https://img.shields.io/badge/%E2%86%92-555555?style=for-the-badge" alt="then" />
+  <img src="https://img.shields.io/badge/4%20%C2%B7%20HAND%20OVER-6A1B9A?style=for-the-badge&logo=handshake&logoColor=white" alt="Hand over" />
+</p>
 
 * ⚡ **Client prototypes in days:** pitch and demo sites for prospects and clients, polished into real launches with a custom domain, search setup and a live test pass
 * 🏗️ **Full-stack MVPs:** Next.js, Supabase (auth and row-level security) and Vercel apps, each in its own private repo with Delivery OS installed
