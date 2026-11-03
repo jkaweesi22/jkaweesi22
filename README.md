@@ -1,20 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/jkaweesi22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Forward+Deployed+Engineer;Agentic+AI+Engineer" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Forward+Deployed+Engineer;Technical+Program+Manager;QA+Leader;Agentic+AI+Engineer" alt="Typing intro" />
 </a>
 
 🚀 Building reliable systems, scaling quality, and turning complex delivery into clear execution.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-Impact-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20Program%20Management-Delivery-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quality%20Engineering-Leadership-2E86C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Systems-6A1B9A?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation-Efficiency-FB8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-Impact-C62828?style=for-the-badge" />
 </p>
 
 </div>
@@ -23,7 +19,7 @@
 
 ## 👩🏾‍💻 About Me
 
-I work at the intersection of **technical program management, quality engineering, and AI-enabled delivery**.
+I work close to the problem, with the people who have it, at the intersection of **technical program management, quality engineering, and AI-enabled delivery**.
 
 * 🧭 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management
 * 🧪 QA strategy & test automation
@@ -35,12 +31,6 @@ I work at the intersection of **technical program management, quality engineerin
 ---
 
 ## 🛰️ Forward Deployed Engineering
-
-I like working close to the problem, with the people who have it.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HOW%20I%20ENGAGE-1F2937?style=for-the-badge" alt="How I engage" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/1%20%C2%B7%20DISCOVER-2E86C1?style=for-the-badge&logo=searchengin&logoColor=white" alt="Discover" />
@@ -85,9 +75,7 @@ I like working close to the problem, with the people who have it.
 
 An open-source operating system for software delivery on GitHub.
 
-🔗 Repo: https://github.com/Phaneroo/github-delivery-operating-system
-🌐 Site: https://phaneroo.github.io/github-delivery-operating-system/
-📦 npm: https://www.npmjs.com/package/github-delivery-os
+🔗 [Repo](https://github.com/Phaneroo/github-delivery-operating-system) · 🌐 [Site](https://phaneroo.github.io/github-delivery-operating-system/) · 📦 [npm](https://www.npmjs.com/package/github-delivery-os)
 
 ---
 
@@ -99,9 +87,7 @@ An open-source operating system for software delivery on GitHub.
 
 ## 📫 Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/jackie-namanda-75912a81/
-🌐 Portfolio: https://jkaweesi22.github.io/Kaweesi-Resume/
-📓 Field Log (private): https://claude.ai/artifact/XYxmMmaHBQQLJMMEjypzEX
+💼 [LinkedIn](https://www.linkedin.com/in/jackie-namanda-75912a81/) · 🌐 [Portfolio](https://jkaweesi22.github.io/Kaweesi-Resume/) · 📓 [Field Log (private)](https://claude.ai/artifact/XYxmMmaHBQQLJMMEjypzEX)
 
 ---
 
