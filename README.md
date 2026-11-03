@@ -44,8 +44,6 @@ I like working close to the problem, with the people who have it.
 
 **How I engage:** `discover → prototype → deploy → hand over`
 
-### 🧰 What that looks like in practice
-
 * ⚡ **Client prototypes in days:** pitch and demo sites for prospects and clients, polished into real launches with a custom domain, search setup and a live test pass
 * 🏗️ **Full-stack MVPs:** Next.js, Supabase (auth and row-level security) and Vercel apps, each in its own private repo with Delivery OS installed
 * 📡 **Delivery OS in the field:** the Watch Tower, which calibrates signals from an org's own history, and the `delivery-ops` skill, bringing delivery governance into other teams' workflows
