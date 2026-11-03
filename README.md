@@ -42,12 +42,21 @@ I specialize in turning ambiguity into structured execution through:
 
 I like working close to the problem, with the people who have it.
 
+**How I engage:** `discover → prototype → deploy → hand over`
+
 * 🤝 **Embed with the customer:** learn their workflows, constraints and vocabulary first-hand
 * 🔍 **Discover and scope:** turn vague pain points into a clear, testable problem statement
 * ⚡ **Prototype fast:** ship working demos and MVPs quickly to get real feedback
 * 🔌 **Integrate:** connect APIs, data sources and AI/LLM workflows into existing systems
 * 🚀 **Deploy and own it:** get it live, monitor it, and stay accountable for adoption
 * 🔁 **Feed back to product:** carry field learnings back to engineering to improve the core
+
+### 🧰 What that looks like in practice
+
+* ⚡ **Client prototypes in days:** pitch and demo sites for prospects and clients, polished into real launches with a custom domain, search setup and a live test pass
+* 🏗️ **Full-stack MVPs:** Next.js, Supabase (auth and row-level security) and Vercel apps, each in its own private repo with Delivery OS installed
+* 📡 **Delivery OS in the field:** the Watch Tower, which calibrates signals from an org's own history, and the `delivery-ops` skill, bringing delivery governance into other teams' workflows
+* 📚 **Client document libraries:** a single place to read, edit and open client documents, built for customer enablement and handover
 
 ---
 
