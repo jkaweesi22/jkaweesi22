@@ -75,7 +75,7 @@ I like working close to the problem, with the people who have it.
 **Engineering:** JavaScript · TypeScript · React · Next.js · GitHub Actions
 **Cloud:** AWS · CloudWatch · IAM · SNS · SQS
 **Field Engineering:** Customer Discovery · Rapid Prototyping · Integrations · Solution Design · Onboarding & Enablement
-**AI:** ChatGPT · Claude · Cursor · Google ADK · LLM Evaluation · Prompt Engineering
+**AI:** ChatGPT · Claude · Cursor · Google ADK · Prompt Engineering
 
 ---
 
