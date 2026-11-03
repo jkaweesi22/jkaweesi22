@@ -79,12 +79,8 @@ I like working close to the problem, with the people who have it.
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-**Delivery:** Agile · Scrum · Kanban · SDLC · Release Management · Risk Management
-**Testing:** Playwright · WebdriverIO · Appium · BrowserStack · ContextQA · API Testing
-**Engineering:** JavaScript · TypeScript · React · Next.js · GitHub Actions
-**Cloud:** AWS · CloudWatch · IAM · SNS · SQS
-**Field Engineering:** Customer Discovery · Rapid Prototyping · Integrations · Solution Design · Onboarding & Enablement
-**AI:** ChatGPT · Claude · Cursor · Google ADK · Prompt Engineering
+**Delivery:** Agile · Scrum · Kanban · SDLC · Release Management
+**Field Engineering:** Customer Discovery · Rapid Prototyping · Solution Design · Onboarding & Enablement
 
 ---
 
