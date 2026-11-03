@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jkaweesi22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Agentic+AI+Engineer;Turning+ambiguity+into+clear+execution" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FB8C00&center=true&vCenter=true&width=640&lines=Technical+Program+Manager;QA+Leader;Forward+Deployed+Engineer;Agentic+AI+Engineer;Turning+ambiguity+into+clear+execution" alt="Typing intro" />
 </a>
 
 🚀 Building reliable systems, scaling quality, and turning complex delivery into clear execution.
@@ -34,6 +34,20 @@ I specialize in turning ambiguity into structured execution through:
 * ⚙️ CI/CD, GitHub Actions & delivery automation
 * ☁️ AWS & infrastructure-aware testing
 * 📝 Technical documentation & process design
+* 🛰️ Forward deployed engineering: embedding with customers to ship working solutions
+
+---
+
+## 🛰️ Forward Deployed Engineering
+
+I like working close to the problem, with the people who have it.
+
+* 🤝 **Embed with the customer:** learn their workflows, constraints and vocabulary first-hand
+* 🔍 **Discover and scope:** turn vague pain points into a clear, testable problem statement
+* ⚡ **Prototype fast:** ship working demos and MVPs quickly to get real feedback
+* 🔌 **Integrate:** connect APIs, data sources and AI/LLM workflows into existing systems
+* 🚀 **Deploy and own it:** get it live, monitor it, and stay accountable for adoption
+* 🔁 **Feed back to product:** carry field learnings back to engineering to improve the core
 
 ---
 
@@ -60,6 +74,7 @@ I specialize in turning ambiguity into structured execution through:
 **Testing:** Playwright · WebdriverIO · Appium · BrowserStack · ContextQA · API Testing
 **Engineering:** JavaScript · TypeScript · React · Next.js · GitHub Actions
 **Cloud:** AWS · CloudWatch · IAM · SNS · SQS
+**Field Engineering:** Customer Discovery · Rapid Prototyping · Integrations · Solution Design · Onboarding & Enablement
 **AI:** ChatGPT · Claude · Cursor · Google ADK · LLM Evaluation · Prompt Engineering
 
 ---
@@ -78,7 +93,7 @@ An open-source operating system for software delivery on GitHub.
 
 ## 🌱 What I Value
 
-**Reliable delivery · Clear ownership · Strong documentation · Servant leadership · Purpose-driven technology**
+**Customer-embedded problem solving · Reliable delivery · Clear ownership · Strong documentation · Servant leadership · Purpose-driven technology**
 
 ---
 
