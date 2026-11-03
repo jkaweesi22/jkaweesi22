@@ -44,13 +44,6 @@ I like working close to the problem, with the people who have it.
 
 **How I engage:** `discover → prototype → deploy → hand over`
 
-* 🤝 **Embed with the customer:** learn their workflows, constraints and vocabulary first-hand
-* 🔍 **Discover and scope:** turn vague pain points into a clear, testable problem statement
-* ⚡ **Prototype fast:** ship working demos and MVPs quickly to get real feedback
-* 🔌 **Integrate:** connect APIs, data sources and AI/LLM workflows into existing systems
-* 🚀 **Deploy and own it:** get it live, monitor it, and stay accountable for adoption
-* 🔁 **Feed back to product:** carry field learnings back to engineering to improve the core
-
 ### 🧰 What that looks like in practice
 
 * ⚡ **Client prototypes in days:** pitch and demo sites for prospects and clients, polished into real launches with a custom domain, search setup and a live test pass
