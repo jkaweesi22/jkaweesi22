@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automation-Efficiency-FB8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Workflow%20Optimization-Scale-00897B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-Impact-C62828?style=for-the-badge" />
 </p>
 
