@@ -25,13 +25,11 @@
 
 I work at the intersection of **technical program management, quality engineering, and AI-enabled delivery**.
 
-I specialize in turning ambiguity into structured execution through:
-
-* 🧭 Technical program & release management
-* 🧪 QA strategy, automation & release governance
+* 🧭 **Delivery:** Agile · Scrum · Kanban · SDLC · Release Management
+* 🧪 QA strategy & test automation
 * 🤖 Agentic AI workflows & AI reliability
-* ⚙️ CI/CD, GitHub Actions & delivery automation
-* ☁️ AWS & infrastructure-aware testing
+* 🔍 **Customer discovery** & **rapid prototyping**
+* 🛠️ Solution design, onboarding & enablement
 * 📝 Technical documentation & process design
 
 ---
@@ -78,9 +76,6 @@ I like working close to the problem, with the people who have it.
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
-
-**Delivery:** Agile · Scrum · Kanban · SDLC · Release Management
-**Field Engineering:** Customer Discovery · Rapid Prototyping · Solution Design · Onboarding & Enablement
 
 ---
 
